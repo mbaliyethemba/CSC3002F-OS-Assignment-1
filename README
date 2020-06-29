@@ -1,0 +1,11 @@
+#SHNMBA004
+#Mbaliyethemba Shangase
+#OS Assignment 1
+#2 June 2020
+
+#paging.py
+
+The python code is the implementation of page replacement algorithms( FIFO, LRU, and Optimal) for a randomly generated reference string.
+
+When ran on terminal:
+	<python-version> paging.py <size>
